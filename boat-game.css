@@ -1,0 +1,19 @@
+html {
+	background: #518898;
+	color: white;
+}
+
+body {
+	text-align: center;
+	margin-top: 50px;
+}
+
+#title {
+	font-size: 60px;
+	color: #98bf69;
+	font-weight: bold;
+}
+.modal-body{
+	width: 960;
+	height: 640;
+}
