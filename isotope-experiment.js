@@ -6,6 +6,8 @@ $(document).ready(function(){
 	$('.filter-button-group').on( 'click', 'button', function() {
   var filterValue = $(this).attr('data-filter');
   $grid.isotope({ filter: filterValue });
+
+  
 });
 
 	console.log("OH MY ZEESH");
